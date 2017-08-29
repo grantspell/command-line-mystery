@@ -61,3 +61,28 @@ egrep -R '((Joe Germuska)|(Brian Boyer)|(Mike Bostock)|(Jeremy Bowers)|(John Kee
 # Not BB, wrong car manufacturer
 # JB, it is JB
 ```
+cd ga
+ls
+cd wdi
+cd wdi
+cd wdi
+ls
+cd command-line-mystery
+cat hint1
+cd mystery
+ls
+head -n 20 people
+cat hint2
+cd mystery
+grep "CLUE" crimescene
+head -n 20 people
+head -n 40 people
+head -n 100 people
+grep "Annabel" people
+head -n 173 streets/Mattapan_Street | tail -n 1
+cat interview-9437737
+head vehicles
+grep -A 5 "L337" mystery/vehicles
+less streets/Mattapan_Street
+less interviews/interview-47246024
+less interviews/interview-699607
